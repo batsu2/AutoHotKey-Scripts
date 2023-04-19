@@ -40,6 +40,7 @@ loop{
     {
         break
     }
+Return
 }
 
 
@@ -52,3 +53,4 @@ Else
 {
     Run := 1
 }
+Return
