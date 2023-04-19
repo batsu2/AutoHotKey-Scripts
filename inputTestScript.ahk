@@ -40,5 +40,15 @@ loop{
     {
         break
     }
-Return
+}
+
+
+^2::
+If (Run = 1) 
+{
+    Run := 0
+} 
+Else 
+{
+    Run := 1
 }
